@@ -12,6 +12,7 @@
     "bootstrap": "^5.3.7",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
     "uuid": "^11.1.0"
   }
 }
